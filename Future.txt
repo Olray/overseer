@@ -1,0 +1,21 @@
+Overseer
+The Open Source message-based debugging tool
+
+Future Development:
+
+I guess that current Overseer design&code is at dead-end, so I'll make new
+one (V2.0) from scratch along COM/DCOM and with tight integration with NEXUS.
+Until V2.0 has come to reality, I'll commit to some minor maintenance to current
+version. Because current concept use WM_COPYDATA to pass messages around, this
+version could be used with D2 (but forthcoming version can't be). If somebody
+want backward compatibility with D2, I'm ready to pass V1.0 future into his hands
+after V2.0 went out.
+
+But in spite of my statements (see above), there are some enthusiastic
+contributors who work hard on Overseer 1.x enhancements. 
+
+Send your comments, feature requests or code bugfixes/enhancements to
+pcisar@atlas.cz
+
+Last modified 13.2.1999
+

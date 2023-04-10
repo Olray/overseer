@@ -1,0 +1,13 @@
+Overseer
+The Open Source message-based debugging tool
+
+Whats new:
+
+21.2.1999 Version 1.3.0
++ Load/Save log.
+* NxDebuggerChannel is now public variable.
++ TNxCustomDebuggerChannel for future channel alternatives (named pipes in
+  development).
+# Attachment view now properly cleared on Clear log command. 
+
+
